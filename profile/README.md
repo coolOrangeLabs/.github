@@ -13,11 +13,11 @@ For public code samples and templates related to [COOLORANGE Products](https://w
 
 ## Public Code Samples
 
-Find samples by :
+There are still a few public repositories that might be useful to someone:
 
-- [vapiTrace](https://github.com/search?q=topic%3Afiddler+org%3AcoolOrangeLabs&type=Repositories) - An extension to Telerik's Fiddler Classic that allows tracing Autodesk Vault API calls.
-- [Debugging Tools](https://github.com/search?q=topic%3Adebugging+org%3AcoolOrangeLabs&type=Repositories) - Various tools and source code on debugging.
-- [Legacy Autodesk Inventor Apps](https://github.com/search?q=topic%3Aapp+org%3AcoolOrangeLabs&type=Repositories) - Source code of Inventor apps that used to be on the Autodesk App Store but got removed and are open source now.
+- [vapiTrace](https://github.com/search?q=topic%3Afiddler+org%3AcoolOrangeLabs&type=Repositories) - Fiddler Extension to trace Vault API calls.
+- [Debugging Tools](https://github.com/search?q=topic%3Adebugging+org%3AcoolOrangeLabs&type=Repositories) - Tools and helper for code debugging.
+- [Legacy Autodesk Inventor Apps](https://github.com/search?q=topic%3Aapp+org%3AcoolOrangeLabs&type=Repositories) - Inventor apps that used to be on the Autodesk App Store but have been removed.
 
 ## Getting Started
 
