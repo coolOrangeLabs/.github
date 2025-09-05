@@ -8,16 +8,14 @@
 
 COOLORANGE Labs is a dedicated space where our research team experiments with and refines early-stage products and technologies designed to enhance Autodesk software solutions.
 
-This GitHub space is primarily intended for internal use.  
-For public code samples and templates related to [COOLORANGE Products](https://www.coolorange.com/products), please visit our dedicated repository: [github.com/coolOrangeSamples](https://github.com/coolOrangeSamples).
+This GitHub space is primarily intended for internal use. **For public code samples and templates related to [COOLORANGE Products](https://www.coolorange.com/products), please visit our dedicated repositories: [github.com/coolOrangeSamples](https://github.com/coolOrangeSamples).**
 
 ## Public Code Samples
 
 There are still a few public repositories that might be useful to someone:
 
-- [vapiTrace](https://github.com/search?q=topic%3Afiddler+org%3AcoolOrangeLabs&type=Repositories) - Fiddler Extension to trace Vault API calls.
+- [vapiTrace](https://github.com/coolOrangeLabs/vapiTrace) - Fiddler Extension to trace Vault API calls.
 - [Debugging Tools](https://github.com/search?q=topic%3Adebugging+org%3AcoolOrangeLabs&type=Repositories) - Tools and helper for code debugging.
-- [Legacy Autodesk Inventor Apps](https://github.com/search?q=topic%3Aapp+org%3AcoolOrangeLabs&type=Repositories) - Inventor apps that used to be on the Autodesk App Store but have been removed.
 
 ## Getting Started
 
